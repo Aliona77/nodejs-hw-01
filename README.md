@@ -1,4 +1,4 @@
-# nodejs-hw-01
+# goit-nodejs-hw-01
 
 1. Получаем и выводим весь список контактов в виде таблицы (console.table)- https://ibb.co/9WJ7TSG;
 
