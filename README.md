@@ -4,6 +4,6 @@
 
 2. Получаем контакт по id - https://ibb.co/XXrpT1g;
 
-3.Добавялем контакт - https://ibb.co/b6FqbY4;
+3. Добавялем контакт - https://ibb.co/b6FqbY4;
 
-4.Удаляем контакт - https://ibb.co/r5VtCtF;
+4. Удаляем контакт - https://ibb.co/r5VtCtF;
